@@ -76,6 +76,12 @@ git push origin master
 ![image](https://raw.githubusercontent.com/luzeping966/knowledgeBase/master/images/ssh21.png)
 ### 再次上传
 ---
+```
+git add .
+git status
+git commit -m "注释"
+git push -u origin master
+```
 > 使用git push -u origin master 出现如下提示：
 
 ![image](https://raw.githubusercontent.com/luzeping966/knowledgeBase/master/images/ssh22.png)
